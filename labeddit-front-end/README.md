@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-[Link do deploy](https://jpbrixner-labeddit.surge.sh)
+[Link do deploy](https://Jpbrixner-labeddit.surge.sh)
 
 [Link do repositório back-end](https://github.com/Jpbrixner/labeddit-back-end/)
 
